@@ -1,0 +1,12 @@
+Popescu, 21, 9.20
+Ionescu,20,8.9
+Georgescu,22,7.8
+Marin,19,5.4
+Dumitrescu,23,10
+Vasilescu,21,9.7
+Popescu,8,9.20
+Stan,20,9.20
+Mihai,22,7.20
+Radu,19,9.20
+Mihai,17,8.20
+Enache,21,9.00
